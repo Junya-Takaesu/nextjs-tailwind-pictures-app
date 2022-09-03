@@ -1,3 +1,6 @@
+# [NextJS and Tailwind CSS – Complete Beginner Guide 🚀 - YouTube](https://www.youtube.com/watch?v=24hFVa3hgVw)
+https://www.youtube.com/watch?v=24hFVa3hgVw
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
